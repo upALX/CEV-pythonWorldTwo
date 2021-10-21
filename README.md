@@ -1,5 +1,5 @@
 <h1 align="center"> Curso em Vídeo | Phyton | Mundo 2 </h1>
-<p> Esse repositório é dedicado a resolução de todos os exercicíos do SEGUNDO mundo Python do canal Curso em Vídeo no You Tube. </p>
+<p> This repo is dedicated a solving all challenges of the SECOND world of Python through "Curso em Vídeo" on YouTube. </p>
 
 ---
 
