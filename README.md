@@ -5,7 +5,7 @@
 
 <h1 align="center">Technologies used</h1>
 <p align="center">
-  <a href="">
+  <a href="https://www.python.org/about/">
   </a>
 </p>
   
