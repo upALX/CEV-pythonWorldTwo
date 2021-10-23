@@ -6,6 +6,7 @@
 <h1 align="center">Technologies used</h1>
 <p align="center">
   <a href="https://www.python.org/about/">
+    <img src="https://img.shields.io/badge/Python-3.9.7-purple">
   </a>
 </p>
   
