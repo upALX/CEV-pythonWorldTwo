@@ -21,6 +21,8 @@
 ---
 
 # :pushpin: Topics
+* [About this project](#rocket-about)
+* [Exercices list](#memo-exercices-list)
 # :rocket: About
 
 **English**
