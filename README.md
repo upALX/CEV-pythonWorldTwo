@@ -36,4 +36,4 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/AlexandreALX/Proffy/issues) or solve the problem and make a [Pull request](https://github.com/AlexandreALX/Proffy/pulls). I´ll be very happy with your contribution :)
 
 # :closed_book: License
-
+This project use the [MIT LICENSE](https://opensource.org/licenses/MIT).
