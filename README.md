@@ -21,9 +21,11 @@
 ---
 
 # :pushpin: Topics
-* [About this project](#rocket-about)
-* [Exercices list](#memo-exercices-list)
-# :rocket: About
+
+* <a href="#about"> About this project</a>
+* <a href="#exercices"> Exercices list</a>
+
+<h2 id="about">:rocket: About </h2>
 
 **English**
 <p> Hi, welcome to the repo of all Python world 2 solved exercises of the Curso em Video. Perhaps you are just like me a grasshopper and have a voracious appetite for learning just like me. Because of that, you know that at CEV we stick to practice for learning, from that I created this repo with the intention of giving all devs new to Python an opportunity not only to copy and paste code, but to analyze the proposed challenges of the course and make your own resolutions, as well as compare resolutions and check my notes so as not to miss any details from each class. This repo contains the challenges, statement of challenges and comments about the classes and about the problems I had in solving the challenges along with what I learned solving the problems during the resolutions. </p>
@@ -32,7 +34,8 @@
  <p>Olá, seja bem vindo ao repo de todos os exercícios resolvidos do mundo 2 de Python do Curso em Vídeo. Talvez você seja assim como eu um gafanhoto e tem um apetite voraz por aprendizado assim como eu. Por conta disso sabe que no CEV presamos pela prática para o aprendizado, a partir disso criei esse repo com a intenção de levar a todos os devs iniciantes em Python uma oportunidade não apenas de copiar e colar código, mas analisar os desafios propostos do curso e fazer suas próprias resoluções, assim como comparar resoluções e verificar as minhas anotações a fim de não perder nenhum detalhe de cada aula. 
 Esse repo contém os desafios, enunciados dos desafios e comentários sobre as aulas e sobre os problemas que tive ao resolver os desafios junto a o que aprendi resolvendo os problemas durante as resoluções.</p>
 
-# :memo: Exercices list
+<h2 id="exercices"> :memo: Exercices list </h2> 
+
 # :bug: Bugs
 
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/AlexandreALX/Proffy/issues) or solve the problem and make a [Pull request](https://github.com/AlexandreALX/Proffy/pulls). I´ll be very happy with your contribution :)
