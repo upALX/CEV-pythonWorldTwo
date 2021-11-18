@@ -24,6 +24,7 @@
 
 * <a href="#about"> About this project</a>
 * <a href="#exercices"> Exercices list</a>
+* <a href="#bugs"> contribute to the project </a>
 * <a href="#license"> License project </a>
 
 <h2 id="about">:rocket: About </h2>
@@ -37,7 +38,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 <h2 id="exercices"> :memo: Exercices list </h2> 
 
-# :bug: Bugs
+<h2 id="bugs"> :bug: Bugs </h2>
 
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/AlexandreALX/Proffy/issues) or solve the problem and make a [Pull request](https://github.com/AlexandreALX/Proffy/pulls). I´ll be very happy with your contribution :)
 
