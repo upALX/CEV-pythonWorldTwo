@@ -24,6 +24,7 @@
 
 * <a href="#about"> About this project</a>
 * <a href="#exercices"> Exercices list</a>
+* <a href="#license"> License project </a>
 
 <h2 id="about">:rocket: About </h2>
 
@@ -40,5 +41,6 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/AlexandreALX/Proffy/issues) or solve the problem and make a [Pull request](https://github.com/AlexandreALX/Proffy/pulls). I´ll be very happy with your contribution :)
 
-# :closed_book: License
+<h2 id="license"> :closed_book: License </h2>
+
 This project use the [MIT LICENSE](https://opensource.org/licenses/MIT).
