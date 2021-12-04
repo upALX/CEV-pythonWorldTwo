@@ -1,7 +1,7 @@
 <h1 align="center"> Curso em Vídeo | Phyton | Mundo 2 </h1>
 
 
-**English**
+English
 
 <p> This repo is dedicated to solving all challenges of the second world Python through the <a href="http://youtube.com/cursoemvideo"> Curso em Video channel on YouTube </a>. Here you can find all the challenges with your statements complete. This course has been attended by over 1 million people and is possibly one of the largest community-oriented python courses on the planet.</p>
 
