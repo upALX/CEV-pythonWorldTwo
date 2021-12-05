@@ -5,6 +5,9 @@
 
 <p>Este repo se dedica a solucionar todos os desafios do segundo mundo de Python do canal <a href="http://youtube.com/cursoemvideo"> Curso em Vídeo no YouTube</a> . Aqui você encontra todos os desafios com seus enunciados completos. Este curso foi frequentado por mais de 1 milhão de pessoas e é possivelmente um dos maiores cursos abertos de python voltados para a comunidade no planeta.</p
 
+<p>This repo is dedicated to solving all the challenges of the second world of Python from the <a href="http://youtube.com/cursoemvideo">YouTube Video Course</a> . Here you will find all the challenges with their complete statements. This course has been attended by over 1 million people and is possibly one of the largest community-oriented open python courses on the planet. </p>
+
+  
 ---
 
 <h2 align="center">Technologies used</h2>
