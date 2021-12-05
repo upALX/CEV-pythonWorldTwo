@@ -28,7 +28,6 @@
 * <a href="#bugs"> Contribute to the project </a>
 * <a href="#license"> License project </a>
 
-<h2 id="about">:rocket: About </h2>
 
 **English**
 <p> Hi, welcome to the repo of all Python world 2 solved exercises of the Curso em Video. Perhaps you are just like me a grasshopper and have a voracious appetite for learning just like me. Because of that, you know that at CEV we stick to practice for learning, from that I created this repo with the intention of giving all devs new to Python an opportunity not only to copy and paste code, but to analyze the proposed challenges of the course and make your own resolutions, as well as compare resolutions and check my notes so as not to miss any details from each class. This repo contains the challenges, statement of challenges and comments about the classes and about the problems I had in solving the challenges along with what I learned solving the problems during the resolutions. </p>
