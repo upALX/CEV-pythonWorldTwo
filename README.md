@@ -7,7 +7,6 @@
 
  **English**
 <p>This repo is dedicated to solving all the challenges of the second world of Python from the <a href="http://youtube.com/cursoemvideo">YouTube Video Course</a> . Here you will find all the challenges with their complete statements. This course has been attended by over 1 million people and is possibly one of the largest community-oriented open python courses on the planet. </p>
-
   
 ---
 
@@ -26,7 +25,6 @@
 * <a href="#exercices"> Exercices list</a>
 * <a href="#bugs"> Contribute to the project </a>
 * <a href="#license"> License project </a>
-
 
 **English**
 <p> Hi, welcome to the repo of all Python world 2 solved exercises of the Curso em Video. Perhaps you are just like me a grasshopper and have a voracious appetite for learning just like me. Because of that, you know that at CEV we stick to practice for learning, from that I created this repo with the intention of giving all devs new to Python an opportunity not only to copy and paste code, but to analyze the proposed challenges of the course and make your own resolutions, as well as compare resolutions and check my notes so as not to miss any details from each class. This repo contains the challenges, statement of challenges and comments about the classes and about the problems I had in solving the challenges along with what I learned solving the problems during the resolutions. </p>
