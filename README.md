@@ -1,6 +1,7 @@
 <h1 align="center"> Curso em Vídeo | Phyton | Mundo 2 </h1>
 
-
+**Overview**
+* Esse repositório é dedicado aos exercícios do mundo 2 de Python do Curso em Vídeo.
 
 **Portguês**
 <p>Este repo se dedica a solucionar todos os desafios do segundo mundo de Python do canal <a href="http://youtube.com/cursoemvideo"> Curso em Vídeo no YouTube</a> . Aqui você encontra todos os desafios com seus enunciados completos. Este curso foi frequentado por mais de 1 milhão de pessoas e é possivelmente um dos maiores cursos abertos de python voltados para a comunidade no planeta.</p
@@ -25,6 +26,8 @@
 * <a href="#exercices"> Exercices list</a>
 * <a href="#bugs"> Contribute to the project </a>
 * <a href="#license"> License project </a>
+
+<h2 id="about"> :book: About this project</h2>
 
 **Português**
  <p>Olá, seja bem vindo ao repo de todos os exercícios resolvidos do mundo 2 de Python do Curso em Vídeo. Talvez você seja assim como eu um gafanhoto e tem um apetite voraz por aprendizado assim como eu. Por conta disso sabe que no CEV presamos pela prática para o aprendizado, a partir disso criei esse repo com a intenção de levar a todos os devs iniciantes em Python uma oportunidade não apenas de copiar e colar código, mas analisar os desafios propostos do curso e fazer suas próprias resoluções, assim como comparar resoluções e verificar as minhas anotações a fim de não perder nenhum detalhe de cada aula. 
