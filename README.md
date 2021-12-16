@@ -40,7 +40,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 <h2 id="bugs"> :bug: Bugs </h2>
 
-Did you find one or more errors in this project? No problem, open an [issue](https://github.com/AlexandreALX/Proffy/issues) or solve the problem and make a [Pull request](https://github.com/upALX/CEV-pythonWorldTwo/pulls). I´ll be very happy with your contribution :)
+Did you find one or more errors in this project? No problem, open an [issue](https://github.com/upALX/CEV-pythonWorldTwo/issues) or solve the problem and make a [Pull request](https://github.com/upALX/CEV-pythonWorldTwo/pulls). I´ll be very happy with your contribution :)
 
 <h2 id="license"> :closed_book: License </h2>
 
