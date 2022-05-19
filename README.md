@@ -8,6 +8,7 @@
  **English**
 <p>This repo is dedicated to solving all the challenges of the second world of Python from the <a href="http://youtube.com/cursoemvideo">YouTube Video Course</a> . Here you will find all the challenges with their complete statements. This course has been attended by over 1 million people and is possibly one of the largest community-oriented open python courses on the planet. </p>
   
+  
 ---
 
 <h2 align="center">Technologies used</h2>
