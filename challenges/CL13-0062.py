@@ -19,5 +19,5 @@ while while_value:
             print(f'{term}', end=' ')
             counter += 1
     else:
-        print('A PA terminou!')
+        print(f'A PA terminou com {counter} termos!')
         while_value = False
