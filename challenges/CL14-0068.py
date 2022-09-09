@@ -27,3 +27,5 @@ while True:
             break
     else:
         print('Você informou um valor diferente de números e letras!')
+
+        
