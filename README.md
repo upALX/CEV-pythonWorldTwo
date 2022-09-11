@@ -1,4 +1,4 @@
-<h1 align="center"> Curso em Vídeo | Phyton | Mundo 2 </h1>
+<h1 align="center"> Curso em Vídeo | Python | Mundo 2 </h1>
 
 <h2> Overview </h2>
 
