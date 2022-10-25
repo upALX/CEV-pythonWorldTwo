@@ -20,7 +20,6 @@
 
 ---
 
-
 # :pushpin: Topics
 
 * <a href="#about"> About this project</a>
