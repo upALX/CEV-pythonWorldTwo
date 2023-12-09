@@ -20,14 +20,6 @@
 
 ---
 
-
-# :pushpin: Topics
-
-* <a href="#about"> About this project</a>
-* <a href="#exercices"> Exercices list</a>
-* <a href="#bugs"> Contribute to the project </a>
-* <a href="#license"> License project </a>
-
 <h2 id="about"> :book: About this project</h2>
 
 **Português**
