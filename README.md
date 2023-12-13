@@ -33,12 +33,10 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 **Under migration...**
 
-### [01-Conditions]([https://github.com/upALX/CV-Python-W02/tree/main/challenges](https://github.com/upALX/CV-Python-W02/tree/main/challenges/condictions))
-### [02-Repetition structure FOR](https://github.com/upALX/CV-Python-W02/tree/main/challenges)
-### [03-Repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges)
-### [04-Interruption repetition structure FOR](https://github.com/upALX/CV-Python-W02/tree/main/challenges)
-
-
+### [01-Conditions](https://github.com/upALX/CV-Python-W02/tree/main/challenges/condictions)
+### [02-Repetition structure FOR](https://github.com/upALX/CV-Python-W02/tree/main/challenges/repetition-structure-FOR)
+### [03-Repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/repetition-structure-WHILE)
+### [04-Interruption repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/interrupting-repetition-structure-WHILE)
 
 <h2 id="bugs"> :bug: Bugs </h2>
 
