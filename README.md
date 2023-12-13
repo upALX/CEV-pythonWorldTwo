@@ -33,6 +33,13 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 **Under migration...**
 
+### [01-Conditions](https://github.com/upALX/CV-Python-W02/tree/main/challenges)
+### [02-Repetition structure FOR](https://github.com/upALX/CV-Python-W02/tree/main/challenges)
+### [03-Repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges)
+### [04-Interruption repetition structure FOR](https://github.com/upALX/CV-Python-W02/tree/main/challenges)
+
+
+
 <h2 id="bugs"> :bug: Bugs </h2>
 
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/upALX/CEV-pythonWorldTwo/issues) or solve the problem and make a [Pull request](https://github.com/upALX/CEV-pythonWorldTwo/pulls). I´ll be very happy with your contribution :)
