@@ -81,7 +81,31 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 10 - Crie um programa que jogue pedra, papel, tesoura com você!
 
 ### [02-Repetition structure FOR](https://github.com/upALX/CV-Python-W02/tree/main/challenges/repetition-structure-FOR)
-1 - 
+1 - Faça um programa que mostre na tela uma contagem regressiva, de 0 a 10, com uma pause de 1 segundo entre elas.
+
+2 - Crie um programa que mostre todos os números pares de 1 à 50.
+- Mostrando junto o número que não é par
+
+3 - Faça um programa que calcule a soma de todos os números impares que são multiplos de três e que se encontram no intervalo de 1 até 500
+
+4 - Crie uma tabuada até 10 de qualquer número
+
+5 - Escreva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidere-o!
+
+6 - Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos da progressão.
+
+7 - Crie um programa que leia leia um número inteiro e diga se ele é ou nõa um número primo!
+
+8 - Verifique se uma frase é um palidromo
+
+9 - Escreva um programa que leia o ano de nascimento de 7 pessoas. No final:
+- mostre quantas pessoas ainda não atingiram a maioridade
+- e quantas já são maiores.
+
+10 - Escreva um programa que leia o peso de 5 pessoas e mostre o maior e o menor peso!
+
+11 - Escreva um programa que leia nome, idade e sexo de 4 pessoas. No final do programa mostre:
+- A média de idade do grupo, qual o nome do home mais velho, e quantas mulheres tem mais de 20 anos.
 
 ### [03-Repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/repetition-structure-WHILE)
 ### [04-Interruption repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/interrupting-repetition-structure-WHILE)
