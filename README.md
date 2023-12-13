@@ -133,6 +133,30 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### [04-Interruption repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/interrupting-repetition-structure-WHILE)
 
+1 - Escreva um programa que leia um valor e informe se ele é masculino ou feminino, se o valor fugir da regra, deve ser pedido
+- novamente para que o usuário informe um valor
+
+2 - Escreva um jogo da adivinhação, onde a máquina escolhe um número aleatório de 0 à 10 e o usuário tenta acertar o número
+- O usuário deve permanecer com a possibilidade de chute até que acerte!
+
+3 - Escreva um programa que leia dois valores e pergunte qual tipo de operação matemática básica ele deseja realizar com os dois numeros
+
+4 - Escreva um programa que leia um valor e faça o fatorial desse valor.
+- O fatorial (!) de um número n, representado por n!, é a multiplicação de n por seus antecessores maiores ou iguais a 1. 
+
+5 - Faça uma PA que mostre os 10 primeiros termos
+
+6 - Mostre uma PA, capturando o primeiro termo e a razão do usuário. 
+- Esse PA deve ser mostrada primeiramente nos seus 10 primeiros termos
+- e depois deve ser perguntado quantos termos mais o usuário deseja que mostre
+
+7 - Crie um programa que mostre termos da sequência de Fibonacci. A quantidade de termos deve ser informada pelo usuário.and
+
+8 - Some os valores que o usuário digitar, e se ele digitar 999, mostre a soma dos valores digitados sem contar o 999
+
+9 - Faça um programa que o usuário digite números quantas vez quiser, e a cada numero digitado o programa pergunta se ele deseja continuar digitando. 
+-  Quando o usuário não quiser mais digitar números, deve ser devolvido para ele a quantidade de números digitados, o maior valor digitado, o menor valor digitado e a média desses valores.
+
 <h2 id="bugs"> :bug: Bugs </h2>
 
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/upALX/CEV-pythonWorldTwo/issues) or solve the problem and make a [Pull request](https://github.com/upALX/CEV-pythonWorldTwo/pulls). I´ll be very happy with your contribution :)
