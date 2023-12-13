@@ -34,6 +34,39 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 **Under migration...**
 
 ### [01-Conditions](https://github.com/upALX/CV-Python-W02/tree/main/challenges/condictions)
+1 - Escreva um programa que aprove um emprestimo bancário para compra de casas. Receba o valor da casa, o salario do comprador e os anos de quitação. Para o calculo da prestação mensal, o valor não pode ser maior que 30% do salário do comprador.
+
+2 - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de converção: 1: binário 2: octal 3: hexadecimal
+
+3 - Escreva um programa que leia dois valores inteiros e compareos, mostrando na tela as mensagems: O primeiro número é maior. O segundo número é maior. Não existe valor maior, ambos são iguais!
+
+4 - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a idade: Se ele ainda vai se alistar no exercito. Se está no momento de se alistar. Se já passou do tempo do alistamento.
+
+5 - Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida!
+
+6 - Um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade. 9 mirim, 14 infantil, 19 sênior, 20 pra cima: master.
+
+7 - Receba três valores e mostre se esses podem ser um triângulo, assim como diga qual o tipo de triângulo eles pode formar. 
+- quilatero: todos os lados iguais 
+- Dois lados iguais
+- Todos os lados diferetens
+- |10 – 9| < 5 < 10 + 9 and 1 < 5 <19 (VERDADEIRO)
+
+8 - Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela:
+- abaixo de 18.5: abaixo do peso
+- entre 18.5 e 25: peso ideal
+- 25 até 30: sobrepeso
+- 30 até 40: obesidade
+- acima de 40: obesidade mórbida
+
+9 - #Elabore um programa que calcule o valor a ser pago por um produto considerando o seu preço normal e condição de pagamentos:
+- A vista ou cheque: 10% de desconto
+- A vista no cartão: 5% de desconto
+- Em até 2x no cartão: preço normal
+- 3x ou mais no cartão: juros de 20%
+
+10 - Crie um programa que jogue pedra, papel, tesoura com você!
+
 ### [02-Repetition structure FOR](https://github.com/upALX/CV-Python-W02/tree/main/challenges/repetition-structure-FOR)
 ### [03-Repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/repetition-structure-WHILE)
 ### [04-Interruption repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/interrupting-repetition-structure-WHILE)
