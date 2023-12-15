@@ -55,7 +55,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 5 - [Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida!](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0040.py)
 
-6 - Um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade. 
+6 - [Um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0041.py) 
 - 9 mirim, 14 infantil,
 - 19 sênior, 20 pra cima: master.
 
