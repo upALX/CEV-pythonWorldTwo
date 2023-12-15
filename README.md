@@ -53,7 +53,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 - Se está no momento de se alistar.
 - Se já passou do tempo do alistamento.
 
-5 - Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida!
+5 - [Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida!](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0040.py)
 
 6 - Um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade. 
 - 9 mirim, 14 infantil,
