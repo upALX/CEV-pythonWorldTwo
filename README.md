@@ -48,7 +48,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 - O segundo número é maior.
 - Não existe valor maior, ambos são iguais!
 
-4 - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a idade: 
+4 - [Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a idade:](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0039.py) 
 - Se ele ainda vai se alistar no exercito.
 - Se está no momento de se alistar.
 - Se já passou do tempo do alistamento.
