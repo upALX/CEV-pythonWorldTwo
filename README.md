@@ -34,7 +34,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 **Under migration...**
 
 ### [01-Conditions](https://github.com/upALX/CV-Python-W02/tree/main/challenges/condictions)
-1 - Escreva um programa que aprove um emprestimo bancário para compra de casas. 
+1 - [Escreva um programa que aprove um emprestimo bancário para compra de casas.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0036.py) 
 - Receba o valor da casa, o salario do comprador e os anos de quitação.
 - Para o calculo da prestação mensal, o valor não pode ser maior que 30% do salário do comprador.
 
