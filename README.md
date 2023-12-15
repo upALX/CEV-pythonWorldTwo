@@ -81,9 +81,9 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 10 - [Crie um programa que jogue pedra, papel, tesoura com você!](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0045.py)
 
 ### [02-Repetition structure FOR](https://github.com/upALX/CV-Python-W02/tree/main/challenges/repetition-structure-FOR)
-1 - Faça um programa que mostre na tela uma contagem regressiva, de 0 a 10, com uma pause de 1 segundo entre elas.
+1 - [Faça um programa que mostre na tela uma contagem regressiva, de 0 a 10, com uma pause de 1 segundo entre elas.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0046.py)
 
-2 - Crie um programa que mostre todos os números pares de 1 à 50.
+2 - [Crie um programa que mostre todos os números pares de 1 à 50.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0047.py)
 - Mostrando junto o número que não é par
 
 3 - Faça um programa que calcule a soma de todos os números impares que são multiplos de três e que se encontram no intervalo de 1 até 500
