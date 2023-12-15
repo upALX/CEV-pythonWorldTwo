@@ -86,7 +86,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 2 - [Crie um programa que mostre todos os números pares de 1 à 50.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0047.py)
 - Mostrando junto o número que não é par
 
-3 - Faça um programa que calcule a soma de todos os números impares que são multiplos de três e que se encontram no intervalo de 1 até 500
+3 - [Faça um programa que calcule a soma de todos os números impares que são multiplos de três e que se encontram no intervalo de 1 até 500](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0048.py)
 
 4 - Crie uma tabuada até 10 de qualquer número
 
