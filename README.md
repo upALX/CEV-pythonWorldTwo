@@ -38,12 +38,12 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 - Receba o valor da casa, o salario do comprador e os anos de quitação.
 - Para o calculo da prestação mensal, o valor não pode ser maior que 30% do salário do comprador.
 
-2 - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de converção: 
+2 - [Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de converção:](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0037.py) 
 - 1: binário
 - 2: octal
 - 3: hexadecimal
 
-3 - Escreva um programa que leia dois valores inteiros e compareos, mostrando na tela as mensagems: 
+3 - [Escreva um programa que leia dois valores inteiros e compareos, mostrando na tela as mensagems:](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0037.py)
 - O primeiro número é maior.
 - O segundo número é maior.
 - Não existe valor maior, ambos são iguais!
