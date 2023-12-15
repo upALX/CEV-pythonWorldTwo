@@ -72,7 +72,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 - 30 até 40: obesidade
 - acima de 40: obesidade mórbida
 
-9 - Elabore um programa que calcule o valor a ser pago por um produto considerando o seu preço normal e condição de pagamentos:
+9 - [Elabore um programa que calcule o valor a ser pago por um produto considerando o seu preço normal e condição de pagamentos:](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0044.py)
 - A vista ou cheque: 10% de desconto
 - A vista no cartão: 5% de desconto
 - Em até 2x no cartão: preço normal
