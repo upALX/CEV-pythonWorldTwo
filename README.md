@@ -90,7 +90,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 4 - [Crie uma tabuada até 10 de qualquer número](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0049.py)
 
-5 - Escreva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidere-o!
+5 - [Escreva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidere-o!](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0050.py)
 
 6 - Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos da progressão.
 
