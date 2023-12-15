@@ -88,7 +88,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 3 - [Faça um programa que calcule a soma de todos os números impares que são multiplos de três e que se encontram no intervalo de 1 até 500](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0048.py)
 
-4 - Crie uma tabuada até 10 de qualquer número
+4 - [Crie uma tabuada até 10 de qualquer número](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0049.py)
 
 5 - Escreva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidere-o!
 
