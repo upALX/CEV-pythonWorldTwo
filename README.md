@@ -65,7 +65,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 - Todos os lados diferetens
 - |10 – 9| < 5 < 10 + 9 and 1 < 5 <19 (VERDADEIRO)
 
-8 - Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela:
+8 - [Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela:](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0043.py)
 - abaixo de 18.5: abaixo do peso
 - entre 18.5 e 25: peso ideal
 - 25 até 30: sobrepeso
