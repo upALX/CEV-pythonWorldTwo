@@ -92,7 +92,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 5 - [Escreva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidere-o!](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0050.py)
 
-6 - Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos da progressão.
+6 - [Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos da progressão.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0051.py)
 
 7 - Crie um programa que leia leia um número inteiro e diga se ele é ou nõa um número primo!
 
