@@ -59,7 +59,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 - 9 mirim, 14 infantil,
 - 19 sênior, 20 pra cima: master.
 
-7 - Receba três valores e mostre se esses podem ser um triângulo, assim como diga qual o tipo de triângulo eles pode formar. 
+7 - [Receba três valores e mostre se esses podem ser um triângulo, assim como diga qual o tipo de triângulo eles pode formar.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/condictions/CL11-0042.py) 
 - quilatero: todos os lados iguais 
 - Dois lados iguais
 - Todos os lados diferetens
