@@ -117,7 +117,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 3 - [Escreva um programa que leia dois valores e pergunte qual tipo de operação matemática básica ele deseja realizar com os dois numeros](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0059.py)
 
-4 - Escreva um programa que leia um valor e faça o fatorial desse valor.
+4 - [Escreva um programa que leia um valor e faça o fatorial desse valor.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0060.py)
 - O fatorial (!) de um número n, representado por n!, é a multiplicação de n por seus antecessores maiores ou iguais a 1. 
 
 5 - Faça uma PA que mostre os 10 primeiros termos
