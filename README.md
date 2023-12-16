@@ -115,7 +115,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 2 - [Escreva um jogo da adivinhação, onde a máquina escolhe um número aleatório de 0 à 10 e o usuário tenta acertar o número](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0058.py)
 - O usuário deve permanecer com a possibilidade de chute até que acerte!
 
-3 - Escreva um programa que leia dois valores e pergunte qual tipo de operação matemática básica ele deseja realizar com os dois numeros
+3 - [Escreva um programa que leia dois valores e pergunte qual tipo de operação matemática básica ele deseja realizar com os dois numeros](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0059.py)
 
 4 - Escreva um programa que leia um valor e faça o fatorial desse valor.
 - O fatorial (!) de um número n, representado por n!, é a multiplicação de n por seus antecessores maiores ou iguais a 1. 
