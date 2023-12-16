@@ -138,8 +138,8 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 1 - [Escreva um programa que leia um valor e informe se ele é masculino ou feminino.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/interrupting-repetition-structure-WHILE/CL14-0066.py)
 - se o valor fugir da regra, deve ser pedido novamente para que o usuário informe um valor.
 
-2 - Escreva um jogo da adivinhação, onde a máquina escolhe um número aleatório de 0 à 10 e o usuário tenta acertar o número
-- O usuário deve permanecer com a possibilidade de chute até que acerte!
+2 - [Escreva um programa que mostre tabuadas tendo como base da tabuada o valor digitado pelo usuário](https://github.com/upALX/CV-Python-W02/blob/main/challenges/interrupting-repetition-structure-WHILE/CL14-0067.py) 
+- o programa deve mostrar uma tabuada por vez e quando o usuário digitar um valor negativo ele deve se encerrar mostrando que o programa foi encerrado.
 
 3 - Escreva um programa que leia dois valores e pergunte qual tipo de operação matemática básica ele deseja realizar com os dois numeros
 
