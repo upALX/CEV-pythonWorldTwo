@@ -126,7 +126,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 - Esse PA deve ser mostrada primeiramente nos seus 10 primeiros termos;
 - depois deve ser perguntado quantos termos mais o usuário deseja que mostre.
 
-7 -  Crie um programa que mostre termos da sequência de Fibonacci. A quantidade de termos deve ser informada pelo usuário.and
+7 - [Crie um programa que mostre termos da sequência de Fibonacci](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0063.py). A quantidade de termos deve ser informada pelo usuário.
 
 8 - Some os valores que o usuário digitar, e se ele digitar 999, mostre a soma dos valores digitados sem contar o 999
 
