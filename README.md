@@ -94,7 +94,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 6 - [Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos da progressão.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0051.py)
 
-7 - Crie um programa que leia leia um número inteiro e diga se ele é ou nõa um número primo!
+7 - [Crie um programa que leia leia um número inteiro e diga se ele é ou nõa um número primo!](Crie um programa que leia leia um número inteiro e diga se ele é ou nõa um número primo!)
 
 8 - Verifique se uma frase é um palidromo
 
