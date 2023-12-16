@@ -135,8 +135,8 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### [04-Interruption repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/interrupting-repetition-structure-WHILE)
 
-1 - Escreva um programa que leia um valor e informe se ele é masculino ou feminino, se o valor fugir da regra, deve ser pedido
-- novamente para que o usuário informe um valor
+1 - [Escreva um programa que leia um valor e informe se ele é masculino ou feminino.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/interrupting-repetition-structure-WHILE/CL14-0066.py)
+- se o valor fugir da regra, deve ser pedido novamente para que o usuário informe um valor.
 
 2 - Escreva um jogo da adivinhação, onde a máquina escolhe um número aleatório de 0 à 10 e o usuário tenta acertar o número
 - O usuário deve permanecer com a possibilidade de chute até que acerte!
