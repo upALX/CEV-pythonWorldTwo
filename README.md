@@ -141,7 +141,8 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 2 - [Escreva um programa que mostre tabuadas tendo como base da tabuada o valor digitado pelo usuário](https://github.com/upALX/CV-Python-W02/blob/main/challenges/interrupting-repetition-structure-WHILE/CL14-0067.py) 
 - o programa deve mostrar uma tabuada por vez e quando o usuário digitar um valor negativo ele deve se encerrar mostrando que o programa foi encerrado.
 
-3 - Escreva um programa que leia dois valores e pergunte qual tipo de operação matemática básica ele deseja realizar com os dois numeros
+3 - [Crie um programa de PAR ou Ímpar e jogue contra a máquina. O usuário deve informar o valor e se ele quer PAR ou IMPAR.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/interrupting-repetition-structure-WHILE/CL14-0068.py)
+- enquanto o usuário estiver ganhando o programa deve continuar.
 
 4 - Escreva um programa que leia um valor e faça o fatorial desse valor.
 - O fatorial (!) de um número n, representado por n!, é a multiplicação de n por seus antecessores maiores ou iguais a 1. 
