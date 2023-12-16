@@ -130,7 +130,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 8 - [Some os valores que o usuário digitar, e se ele digitar 999, mostre a soma dos valores digitados sem contar o 999](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0064.py)
 
-9 - Faça um programa que o usuário digite números quantas vez quiser, e a cada numero digitado o programa pergunta se ele deseja continuar digitando. 
+9 - [Faça um programa que o usuário digite números quantas vez quiser, e a cada numero digitado o programa pergunta se ele deseja continuar digitando.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0065.py) 
 - Quando o usuário não quiser mais digitar números, deve ser devolvido para ele a quantidade de números digitados, o maior valor digitado, o menor valor digitado e a média desses valores.
 
 ### [04-Interruption repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/interrupting-repetition-structure-WHILE)
