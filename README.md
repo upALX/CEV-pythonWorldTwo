@@ -104,7 +104,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 10 - [Escreva um programa que leia o peso de 5 pessoas e mostre o maior e o menor peso!](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0055.py)
 
-11 - Escreva um programa que leia nome, idade e sexo de 4 pessoas. No final do programa mostre:
+11 - [Escreva um programa que leia nome, idade e sexo de 4 pessoas](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0056.py). No final do programa mostre:
 - A média de idade do grupo, qual o nome do home mais velho, e quantas mulheres tem mais de 20 anos.
 
 ### [03-Repetition structure WHILE](https://github.com/upALX/CV-Python-W02/tree/main/challenges/repetition-structure-WHILE)
