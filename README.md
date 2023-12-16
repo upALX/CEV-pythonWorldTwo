@@ -144,21 +144,14 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 3 - [Crie um programa de PAR ou Ímpar e jogue contra a máquina. O usuário deve informar o valor e se ele quer PAR ou IMPAR.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/interrupting-repetition-structure-WHILE/CL14-0068.py)
 - enquanto o usuário estiver ganhando o programa deve continuar.
 
-4 - Escreva um programa que leia um valor e faça o fatorial desse valor.
-- O fatorial (!) de um número n, representado por n!, é a multiplicação de n por seus antecessores maiores ou iguais a 1. 
+4 - [Escreva um programa que leia idade e sexo de varias pessoas. A cada pessoa cadastrada, o programa, deverá perguntar se o usuário quer ou não continuar. No final deve mostrar:](https://github.com/upALX/CV-Python-W02/blob/main/challenges/interrupting-repetition-structure-WHILE/CL14-0069.py)
+- quantas pessoas são maiores de 18
+- quantos homens foram cadastrados
+- Quantas mulheres tem menos de 20 anos
 
-5 - Faça uma PA que mostre os 10 primeiros termos
+5 - Under migration...
 
-6 - Mostre uma PA, capturando o primeiro termo e a razão do usuário. 
-- Esse PA deve ser mostrada primeiramente nos seus 10 primeiros termos
-- e depois deve ser perguntado quantos termos mais o usuário deseja que mostre
-
-7 - Crie um programa que mostre termos da sequência de Fibonacci. A quantidade de termos deve ser informada pelo usuário.and
-
-8 - Some os valores que o usuário digitar, e se ele digitar 999, mostre a soma dos valores digitados sem contar o 999
-
-9 - Faça um programa que o usuário digite números quantas vez quiser, e a cada numero digitado o programa pergunta se ele deseja continuar digitando. 
--  Quando o usuário não quiser mais digitar números, deve ser devolvido para ele a quantidade de números digitados, o maior valor digitado, o menor valor digitado e a média desses valores.
+6 - Under migration...
 
 <h2 id="bugs"> :bug: Bugs </h2>
 
