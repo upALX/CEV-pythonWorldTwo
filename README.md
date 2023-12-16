@@ -112,7 +112,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 1 - [Escreva um programa que leia um valor e informe se ele é masculino ou feminino, se o valor fugir da regra, deve ser pedido](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0057.py)
 - novamente para que o usuário informe um valor
 
-2 - Escreva um jogo da adivinhação, onde a máquina escolhe um número aleatório de 0 à 10 e o usuário tenta acertar o número
+2 - [Escreva um jogo da adivinhação, onde a máquina escolhe um número aleatório de 0 à 10 e o usuário tenta acertar o número](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0058.py)
 - O usuário deve permanecer com a possibilidade de chute até que acerte!
 
 3 - Escreva um programa que leia dois valores e pergunte qual tipo de operação matemática básica ele deseja realizar com os dois numeros
