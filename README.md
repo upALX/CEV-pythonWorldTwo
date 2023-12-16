@@ -120,9 +120,11 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 4 - [Escreva um programa que leia um valor e faça o fatorial desse valor.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0060.py)
 - O fatorial (!) de um número n, representado por n!, é a multiplicação de n por seus antecessores maiores ou iguais a 1. 
 
-5 - Faça uma PA que mostre os 10 primeiros termos
+5 - [Faça uma PA que mostre os 10 primeiros termos](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0061.py)
 
-6 - Mostre uma PA, capturando o primeiro termo e a razão do usuário. Esse PA deve ser mostrada primeiramente nos seus 10 primeiros termos, e depois deve ser perguntado quantos termos mais o usuário deseja que mostre
+6 - [Mostre uma PA, capturando o primeiro termo e a razão do usuário.](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-WHILE/CL13-0062.py) 
+- Esse PA deve ser mostrada primeiramente nos seus 10 primeiros termos;
+- depois deve ser perguntado quantos termos mais o usuário deseja que mostre.
 
 7 -  Crie um programa que mostre termos da sequência de Fibonacci. A quantidade de termos deve ser informada pelo usuário.and
 
