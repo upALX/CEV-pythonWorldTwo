@@ -96,7 +96,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 7 - [Crie um programa que leia leia um número inteiro e diga se ele é ou nõa um número primo!](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0052.py)
 
-8 - Verifique se uma frase é um palidromo
+8 - [Verifique se uma frase é um palidromo](https://github.com/upALX/CV-Python-W02/blob/main/challenges/repetition-structure-FOR/CL12-0053.py)
 
 9 - Escreva um programa que leia o ano de nascimento de 7 pessoas. No final:
 - mostre quantas pessoas ainda não atingiram a maioridade
